@@ -14,6 +14,10 @@ root.render(
     </React.StrictMode>
 );
 
+//
+//Previous way of rendering the DOM
+//
+
 // ReactDOM.render(
 //     <React.StrictMode>
 //         <App />
